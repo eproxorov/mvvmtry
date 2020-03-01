@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\mvvmtry\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_detailed.xml",
+        "source": "D:\\AndroidStudioProjects\\mvvmtry\\app\\src\\main\\res\\layout\\fragment_detailed.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\mvvmtry\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\newsitem_row.xml",
+        "source": "D:\\AndroidStudioProjects\\mvvmtry\\app\\src\\main\\res\\layout\\newsitem_row.xml"
+    }
+]
